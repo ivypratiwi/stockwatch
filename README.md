@@ -25,5 +25,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Further information
 
-View the [video](https://www.youtube.com/watch?v=IrcSpgElY04) of the web app to understand its features.
+View the [video](https://youtu.be/ImIhweNvZxc) of the web app to understand its features.
 
